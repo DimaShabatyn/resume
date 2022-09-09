@@ -31,7 +31,7 @@ padding: 105px 90px;
     font-weight: 700;
     font-size: 45px;
     line-height: 55px;
-    color: #000000;
+    color: #32445e;
     margin-bottom: 25px;
 }
 .about-description {
@@ -40,7 +40,7 @@ padding: 105px 90px;
     font-size: 14px;
     line-height: 24px;
     color: #595959;
-    width: 400px;
+    width: 650px;
 }
 /* project styles */
 .projects {
@@ -126,6 +126,7 @@ padding: 105px 90px;
 }
 .university {
     margin-bottom: 10px;
+    width: 350px;
 }
 .specialization {
     font-style: normal;
@@ -137,7 +138,7 @@ padding: 105px 90px;
 }
 /* sidebar */
 .sidebar {
-  background-color: #1E2939;
+  background-color: #32445e;
   padding-top: 40px;
   width: 370px; 
 }
@@ -168,6 +169,15 @@ padding: 105px 90px;
     line-height: 24px;
     color:#fff;
     opacity: 0.5;
+}
+.contact-link-mail {
+    font-style: normal;
+    font-weight: 400;   
+    font-size: 14px;
+    line-height: 24px;
+    color:#fff;
+    opacity: 0.5;
+    margin-left: 10px;
 }
 .contacts,
 .tech-skills,
